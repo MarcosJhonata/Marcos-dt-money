@@ -3,34 +3,42 @@
     {
       "id": 1,
       "description": "Desenvolvimento de site",
-      "type": "outcome",
+      "type": "income",
       "category": "Venda",
-      "price": 14000,
+      "price": 10000,
       "createdAt": "2022-07-29T19:36:44.505Z"
     },
     {
-      "description": "salario",
-      "price": 2500,
-      "category": "salario",
-      "type": "income",
-      "createdAt": "2024-06-21T15:35:31.059Z",
+      "description": "cartão de credito",
+      "price": 5000,
+      "category": "Contas",
+      "type": "outcome",
+      "createdAt": "2024-06-21T17:45:34.095Z",
       "id": 2
     },
     {
-      "description": "jantar",
-      "price": 12000,
-      "category": "alimentação",
-      "type": "income",
-      "createdAt": "2024-06-21T16:00:32.245Z",
+      "description": "luz",
+      "price": 1000,
+      "category": "contas",
+      "type": "outcome",
+      "createdAt": "2024-06-21T17:52:23.011Z",
       "id": 3
     },
     {
-      "description": "jantar",
+      "description": "água",
       "price": 1000,
-      "category": "alimentação",
+      "category": "contas",
       "type": "outcome",
-      "createdAt": "2024-06-21T16:12:00.247Z",
+      "createdAt": "2024-06-21T17:52:39.809Z",
       "id": 4
+    },
+    {
+      "description": "apartamento",
+      "price": 3500,
+      "category": "contas",
+      "type": "outcome",
+      "createdAt": "2024-06-21T17:52:53.793Z",
+      "id": 5
     }
   ]
 }
