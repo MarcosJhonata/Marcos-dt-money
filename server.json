@@ -23,6 +23,14 @@
       "type": "income",
       "createdAt": "2024-06-21T16:00:32.245Z",
       "id": 3
+    },
+    {
+      "description": "jantar",
+      "price": 1000,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-06-21T16:12:00.247Z",
+      "id": 4
     }
   ]
 }
